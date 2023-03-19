@@ -18,4 +18,4 @@ stage ('install')
 }
 stage ('branch')
   steps {
-    echo 'This is master branch'
+    echo 'This is dev branch'
